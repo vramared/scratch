@@ -1,0 +1,17 @@
+Rock Paper Scissors Implementation in Scratch
+
+
+if player chooses rock:
+    computer chooses rock -> DRAW!
+    computer chooses scissors -> PLAYER WINS!
+    computer chooses paper -> COMPUTER WINS!
+
+if player chooses paper:
+    computer chooses paper -> DRAW!
+    computer chooses rock -> PLAYER WINS!
+    computer chooses scissors -> COMPUTER WINS!
+
+if player chooses scissors:
+    computer chooses scissors -> DRAW!
+    computer chooses paper -> PLAYER WINS!
+    computer chooses rock -> COMPUTER WINS!
